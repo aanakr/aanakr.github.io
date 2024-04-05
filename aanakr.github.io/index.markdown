@@ -1,0 +1,42 @@
+require 'newrelic_rpm'
+# The rest of your Ruby script follows
+
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+---
+---
+
+---
+
+Welcome to a curious corner of the web—a playful dead-end where thought-provoking whimsy meets earnest inquiry. "Friction in Focus" delves into the delicate balance between the relentless march of technological advancement and the deeply human art of connection. This site, devoid of a grandiose mission, serves as a sandbox for the mind, inviting wanderers to muse on the nuanced path between utopian efficiency and grounded reality. Crafted by Anantharajah Ananthakumar, a digital artisan at heart, this space is dedicated to those who cherish the beauty of questioning more than the quest for answers. Here, we engage with articles that prod the comfortable boundaries of our digital existence, host discussions that bridge disparate thoughts, and recommend books that promise to unfurl new dimensions of understanding. So, whether you stumbled upon this nook by fate or fortune, know that it was conjured into being by me, Anantharajah Ananthakumar (aanakr@gmail.com), as an ode to the endlessly fascinating dance of progress and preservation. Join the conversation, indulge your curiosity, and perhaps, find delight in the serendipity of intellectual meanderings. Welcome to a community that values depth, diversity, and the discerning charm of the digital age's curious explorers.
+
+## Section 1: Article
+
+[Friction in Focus: Navigating the Path Between Utopian Efficiency and Grounded Reality](https://medium.com/@aanakr/friction-in-focus-navigating-the-path-between-utopian-efficiency-and-grounded-reality-6a10969121b5)
+
+![Boy in a frictionless world](https://miro.medium.com/v2/resize:fit:720/format:webp/0*FqjTQqi99RNYUuSA)
+
+While a frictionless world promises efficiency, a balanced approach that incorporates friction where beneficial is more conducive to preserving the human elements that define our society. This balanced world respects technological advancements while cherishing human insight, creativity, and ethical judgment, fostering a more sustainable, empathetic, and innovative society.
+
+## Section 2: Book Recommendations
+
+1. **The Shallows: What the Internet Is Doing to Our Brains** - “Is Google making us stupid?” When Nicholas Carr posed that question, in a celebrated Atlantic Monthly cover story, he tapped into a well of anxiety about how the Internet is changing us. He also crystallized one of the most important debates of our time: As we enjoy the Net’s bounties, are we sacrificing our ability to read and think deeply?
+ [Book](https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750)
+2. **Alone Together: Why We Expect More from Technology and Less from Each Other** - A groundbreaking book by one of the most important thinkers of our time shows how technology is warping our social lives and our inner ones. Technology has become the architect of our intimacies. Online, we fall prey to the illusion of companionship, gathering thousands of Twitter and Facebook friends, and confusing tweets and wall posts with authentic communication. But this relentless connection leads to a deep solitude. MIT professor Sherry Turkle argues that as technology ramps up, our emotional lives ramp down. Based on hundreds of interviews and with a new introduction taking us to the present day, Alone Together describes changing, unsettling relationships between friends, lovers, and families. [Book](https://www.amazon.com/Alone-Together-Expect-Technology-Other/dp/0465031463)
+3. **Technopoly: The Surrender of Culture to Technology** - A witty, often terrifying that chronicles our transformation into a society that is shaped by technology—from the acclaimed author of Amusing Ourselves to Death. "A provocative book ... A tool for fighting back against the tools that run our lives." —Dallas Morning News. The story of our society's transformation into a Technopoly: a society that no longer merely uses technology as a support system but instead is shaped by it—with radical consequences for the meanings of politics, art, education, intelligence, and truth. [Book](https://www.amazon.com/Technopoly-Surrender-Technology-Neil-Postman/dp/0679745408)
+
+## Section 3: Twitter Discussions
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Robotic?src=hash&amp;ref_src=twsrc%5Etfw">#Robotic</a> Exoskeletons Are Changing Lives<br>by <a href="https://twitter.com/gigadgets_?ref_src=twsrc%5Etfw">@gigadgets_</a><a href="https://twitter.com/hashtag/MI?src=hash&amp;ref_src=twsrc%5Etfw">#MI</a> <a href="https://twitter.com/hashtag/Robotics?src=hash&amp;ref_src=twsrc%5Etfw">#Robotics</a> <a href="https://twitter.com/hashtag/HealthTech?src=hash&amp;ref_src=twsrc%5Etfw">#HealthTech</a> <a href="https://twitter.com/hashtag/Innovation?src=hash&amp;ref_src=twsrc%5Etfw">#Innovation</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://twitter.com/hashtag/TechForGood?src=hash&amp;ref_src=twsrc%5Etfw">#TechForGood</a> <a href="https://twitter.com/hashtag/EmergingTech?src=hash&amp;ref_src=twsrc%5Etfw">#EmergingTech</a><br><br>cc: <a href="https://twitter.com/TerenceLeungSF?ref_src=twsrc%5Etfw">@terenceleungsf</a> <a href="https://twitter.com/JamesMarland?ref_src=twsrc%5Etfw">@jamesmarland</a> <a href="https://twitter.com/wil_bielert?ref_src=twsrc%5Etfw">@wil_bielert</a> <a href="https://t.co/RBRQqWvjzT">pic.twitter.com/RBRQqWvjzT</a></p>&mdash; Ronald van Loon (@Ronald_vanLoon) <a href="https://twitter.com/Ronald_vanLoon/status/1776061461791383766?ref_src=twsrc%5Etfw">April 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#Blockchain</a> for voting? Absolutely! <br>Transparent and secure voting systems are being tested, and <a href="https://twitter.com/hashtag/Conflux?src=hash&amp;ref_src=twsrc%5Etfw">#Conflux</a> could play a big role. <a href="https://twitter.com/hashtag/TechForGood?src=hash&amp;ref_src=twsrc%5Etfw">#TechForGood</a> 📬</p>&mdash; Conflux Developers (@ConfluxDevs) <a href="https://twitter.com/ConfluxDevs/status/1775966567605600602?ref_src=twsrc%5Etfw">April 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Robovision&#39;s $42M funding boosts <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> in agriculture and manufacturing, aiming for smarter automation with no-code, AI-powered computer vision.🌾🏭<a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a> <a href="https://twitter.com/hashtag/Investment?src=hash&amp;ref_src=twsrc%5Etfw">#Investment</a> <a href="https://twitter.com/hashtag/TechForGood?src=hash&amp;ref_src=twsrc%5Etfw">#TechForGood</a> <a href="https://twitter.com/hashtag/AINews?src=hash&amp;ref_src=twsrc%5Etfw">#AINews</a> <a href="https://twitter.com/hashtag/AIInvestment?src=hash&amp;ref_src=twsrc%5Etfw">#AIInvestment</a><a href="https://t.co/QrOPzPRGwB">https://t.co/QrOPzPRGwB</a></p>&mdash; SwissCognitive, AI Venture, Advisory &amp; Research (@SwissCognitive) <a href="https://twitter.com/SwissCognitive/status/1775555147893985640?ref_src=twsrc%5Etfw">April 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Section 4: Polls
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuun423JmgBHwMo_CF1iUtkTjTJl9QVRs7rRSdxNSbMUuNdA/viewform?embedded=true" width="640" height="1959" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
